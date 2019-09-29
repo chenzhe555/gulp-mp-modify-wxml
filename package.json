@@ -1,0 +1,23 @@
+{
+  "name": "gulp-mp-modify-wxml",
+  "version": "0.0.1",
+  "description": "gulp-插件:wxml文件添加文本",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenzhe555/gulp-mp-modify-wxml.git"
+  },
+  "keywords": [
+    "gulp",
+    "wxml"
+  ],
+  "author": "陈哲是个好孩子",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenzhe555/gulp-mp-modify-wxml/issues"
+  },
+  "homepage": "https://github.com/chenzhe555/gulp-mp-modify-wxml#readme"
+}
