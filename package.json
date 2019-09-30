@@ -1,6 +1,6 @@
 {
   "name": "gulp-mp-modify-wxml",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "gulp-插件:wxml文件添加文本",
   "main": "index.js",
   "scripts": {
